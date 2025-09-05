@@ -8,32 +8,22 @@ This project focuses on developing a Convolutional Neural Network (CNN) to detec
 
 ## Project Overview
 
-- **Dataset**: Utilizes a dataset of facial images with labeled keypoints.
-- **Model**: Implements a CNN architecture for facial keypoint detection.
-- **Objective**: Accurately predict the locations of 68 facial landmarks in input images.
+- **`Dataset`**: Utilizes a dataset of facial images with labeled keypoints.
+- **`Model`**: Implements a CNN architecture for facial keypoint detection.
+- **`Objective`**: Accurately predict the locations of 68 facial landmarks in input images.
 
 ---
 
 ## Repository Structure
 
-- **1. Load and Visualize Data.ipynb** — Loading and visualizing the dataset.
-- **2. Define the Network Architecture.ipynb** — Defining the CNN architecture.
-- **3. Facial Keypoint Detection, Complete Pipeline.ipynb** — Complete pipeline for training and evaluating the model.
-- **4. Fun with Keypoints.ipynb** — Exploring fun applications with the detected keypoints.
-- **5. Zip Your Project Files and Submit.ipynb** — Preparing the project for submission.
-- **data_load.py** — Script for loading and preprocessing the dataset.
-- **models.py** — Defines the CNN model architecture.
-- **README.md** — This file.
-
----
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following libraries installed:
-
-`pip install torch torchvision matplotlib numpy pandas`
+- **`1. Load and Visualize Data.ipynb`** — Loading and visualizing the dataset.
+- **`2. Define the Network Architecture.ipynb`** — Defining the CNN architecture.
+- **`3. Facial Keypoint Detection, Complete Pipeline.ipynb`** — Complete pipeline for training and evaluating the model.
+- **`4. Fun with Keypoints.ipynb`** — Exploring fun applications with the detected keypoints.
+- **`5. Zip Your Project Files and Submit.ipynb`** — Preparing the project for submission.
+- **`data_load.py`** — Script for loading and preprocessing the dataset.
+- **`models.py`** — Defines the CNN model architecture.
+- **`README.md`** — This file.
 
 ---
 
