@@ -62,9 +62,9 @@ The model achieves accurate facial keypoint detection, with the predicted keypoi
 
 ## Acknowledgements
 
-Dataset: Utilizes a publicly available dataset of facial images with labeled keypoints.
+- Dataset: Utilizes a publicly available dataset of facial images with labeled keypoints.
 
-PyTorch: An open-source machine learning library used for building and training the CNN model.
+- PyTorch: An open-source machine learning library used for building and training the CNN model.
 
 
 ## Contact & Contributions
